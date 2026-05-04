@@ -84,3 +84,22 @@ body {
   background: white;
   border-bottom: 1px solid #eee;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.section-card img,
+.info-card img,
+.publication-row img,
+.member-card img,
+.gallery-card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.info-card img {
+  max-height: 260px;
+  object-fit: contain;
+}
