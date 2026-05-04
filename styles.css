@@ -88,18 +88,16 @@ body {
 img {
   max-width: 100%;
   height: auto;
+  display: block;
 }
 
-.section-card img,
-.info-card img,
-.publication-row img,
-.member-card img,
-.gallery-card img {
-  max-width: 100%;
+.publication-row img {
+  width: 220px;
+  max-width: 220px;
   height: auto;
+  object-fit: contain;
 }
 
-.info-card img {
-  max-height: 260px;
-  object-fit: contain;
+.publication-row {
+  margin-bottom: 32px;
 }
