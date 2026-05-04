@@ -1,0 +1,86 @@
+/* ===== Global ===== */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  margin: 0;
+  background-color: #fafafa;
+  color: #222;
+}
+
+.site-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* ===== Sections ===== */
+.section-card {
+  background: white;
+  padding: 24px;
+  margin-bottom: 24px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.section-title {
+  margin-bottom: 16px;
+}
+
+/* ===== Profile (PI) ===== */
+.profile-layout {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.profile-avatar {
+  width: 120px;
+  border-radius: 50%;
+}
+
+/* ===== Members Grid ===== */
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 20px;
+}
+
+.member-card {
+  text-align: center;
+}
+
+.member-card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.member-name {
+  margin: 8px 0 4px;
+}
+
+.member-role {
+  font-size: 14px;
+  color: #666;
+}
+
+/* ===== Gallery ===== */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 16px;
+}
+
+.gallery-card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+/* ===== Alumni ===== */
+.alumni-list {
+  padding-left: 20px;
+}
+
+/* ===== Navbar ===== */
+.lab-nav {
+  background: white;
+  border-bottom: 1px solid #eee;
+}
