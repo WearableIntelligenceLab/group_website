@@ -58,12 +58,6 @@ window.teamPageData = {
       url: "https://www.hongymao.com/"
     },
     {
-      name: "Catherine Yu",
-      image: "./image/CatherinYu.jpeg",
-      role: "Visiting PhD Student",
-      url: "https://catherineyu.com/"
-    },
-    {
       name: "Mingzhuo Ma",
       image: "./image/MingzhuoMa.jpg",
       role: "Master Student (ECE)",
@@ -112,6 +106,11 @@ window.teamPageData = {
     { src: "./image/g3.jpg", alt: "WI Lab group photo 3" }
   ],
   alumni: [
+    {
+      name: "Catherine Yu",
+      url: "https://catherineyu.com/"
+      note: "Visiting PhD student at WI Lab."
+    },
     {
       name: "JaeYoung Moon",
       url: "https://scholar.google.co.kr/citations?user=ZOXP7skAAAAJ&hl=ko",
