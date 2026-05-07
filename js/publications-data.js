@@ -1,7 +1,7 @@
 // Add a new publication by appending one object to `window.publications`.
 // Then optionally include its `id` in `selectedOrder` and any topic section `items`.
 window.publicationConfig = {
-  selectedOrder: ["wiresens-toolkit-an-open-source-platform-towards-accesible-wireless-tactile-sens", "magtex-machine-knitted-magnetoactive-textiles-for-bidirectional-human-machine-in", "biogem-a-fully-biodegradable-gelatin-based-mckibben-actuator-with-embedded-sensi", "bandei-a-flexible-electrical-impedance-sensing-bandage-for-deep-muscles-and-tend", "fibercircuits-an-open-platform-to-embed-integrated-circuits-inside-fibers", "locotouch-learning-dexterous-quadrupedal-transport-with-tactile-sensing", "3d-vitac-learning-fine-grained-manipulation-with-visuo-tactile-sensing", "intelligent-textiles-are-looking-bright", "adaptive-tactile-interaction-transfer-via-digitally-embroidered-smart-gloves", "tactile-embeddings-for-multi-task-learning", "liquids-identification-and-manipulation-via-digitally-fabricated-impedance-senso", "magknitic-machine-knitted-passive-and-interactive-haptic-textiles-with-integrate", "actionsense-a-multimodal-dataset-and-recording-framework-for-human-activities-us", "digital-fabrication-of-pneumatic-actuators-with-integrated-sensing-by-machine-kn", "an-integrated-design-pipeline-for-tactile-sensing-robotic-manipulators", "dynamic-modeling-of-hand-object-interactions-via-tactile-sensing", "intelligent-carpet-inferring-3d-human-pose-from-tactile-signals", "learning-human-environment-interactions-using-conformal-tactile-textiles", "knitui-fabricating-interactive-and-sensing-textiles-with-machine-knitting"],
+  selectedOrder: ["magball-magnetic-rollerball-for-multi-scale-contact-interactions-on-diverse-surfaces","wiresens-toolkit-an-open-source-platform-towards-accesible-wireless-tactile-sens", "magtex-machine-knitted-magnetoactive-textiles-for-bidirectional-human-machine-in", "biogem-a-fully-biodegradable-gelatin-based-mckibben-actuator-with-embedded-sensi", "bandei-a-flexible-electrical-impedance-sensing-bandage-for-deep-muscles-and-tend", "fibercircuits-an-open-platform-to-embed-integrated-circuits-inside-fibers", "locotouch-learning-dexterous-quadrupedal-transport-with-tactile-sensing", "3d-vitac-learning-fine-grained-manipulation-with-visuo-tactile-sensing", "intelligent-textiles-are-looking-bright", "adaptive-tactile-interaction-transfer-via-digitally-embroidered-smart-gloves", "tactile-embeddings-for-multi-task-learning", "liquids-identification-and-manipulation-via-digitally-fabricated-impedance-senso", "magknitic-machine-knitted-passive-and-interactive-haptic-textiles-with-integrate", "actionsense-a-multimodal-dataset-and-recording-framework-for-human-activities-us", "digital-fabrication-of-pneumatic-actuators-with-integrated-sensing-by-machine-kn", "an-integrated-design-pipeline-for-tactile-sensing-robotic-manipulators", "dynamic-modeling-of-hand-object-interactions-via-tactile-sensing", "intelligent-carpet-inferring-3d-human-pose-from-tactile-signals", "learning-human-environment-interactions-using-conformal-tactile-textiles", "knitui-fabricating-interactive-and-sensing-textiles-with-machine-knitting"],
   topicSections: [
   {
     "id": "human-data-capturing-and-learning",
@@ -23,6 +23,7 @@ window.publicationConfig = {
     "id": "human-computer-interactions",
     "title": "Human-Computer Interactions",
     "items": [
+      "magball-magnetic-rollerball-for-multi-scale-contact-interactions-on-diverse-surfaces",
       "wiresens-toolkit-an-open-source-platform-towards-accesible-wireless-tactile-sens",
       "luxknit-fabricating-interactive-display-textiles-integrated-with-sensing-by-mach",
       "magknitic-machine-knitted-passive-and-interactive-haptic-textiles-with-integrate",
@@ -75,6 +76,16 @@ window.publicationConfig = {
 };
 
 window.publications = [
+  {
+    id: "magball-magnetic-rollerball-for-multi-scale-contact-interactions-on-diverse-surfaces",
+    title: "MagBall: Magnetic Rollerball for Multi-Scale Contact Interactions on Diverse Surfaces",
+    image: "./image/magball.png",
+    alt: "CHI2026",
+    year: 2026,
+    featured: true,
+    topics: ["human-computer-interactions"],
+    contentHtml: "<div>\n                        <strong>C. Han</strong>; <strong>Y. Miao</strong>; <strong>S. Zhang</strong>; <strong>Y. Luo</strong>.\n                      </div>\n                      <div>\n                        <i>CHI</i>, 2026.\n                        <a href=\"https://dl.acm.org/doi/10.1145/3772318.3791366\">[Paper]</a> </p>\n                      </div>\n                    </div>",
+  },  
   {
     id: "wiresens-toolkit-an-open-source-platform-towards-accesible-wireless-tactile-sens",
     title: "WiReSens Toolkit: An Open-Source Platform Towards Accesible Wireless Tactile Sensing",
