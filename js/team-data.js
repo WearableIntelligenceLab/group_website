@@ -108,7 +108,7 @@ window.teamPageData = {
   alumni: [
     {
       name: "Catherine Yu",
-      url: "https://catherineyu.com/"
+      url: "https://catherineyu.com/",
       note: "Visiting PhD student at WI Lab."
     },
     {
