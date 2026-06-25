@@ -57,42 +57,21 @@ window.teamPageData = {
       role: "PhD Student",
       url: "https://www.hongymao.com/"
     },
-    {
-      name: "Mingzhuo Ma",
-      image: "./image/MingzhuoMa.jpg",
-      role: "Master Student (ECE)",
-      url: "https://www.linkedin.com/in/mingzhuoma"
-    },
-    {
-      name: "Yuxuan Miao",
-      image: "./image/YuxuanMiao.jpg",
-      role: "Master Student (ECE)",
-      url: "https://www.linkedin.com/in/yuxuan-wellington-miao-a07b4032b"
-    },
+    
     {
       name: "Weiye Xu",
       image: "./image/WeiyeXu.jpeg",
       role: "Master Student (GIX)",
       url: "https://www.linkedin.com/in/weiye-xu-gix2024"
     },
-    {
-      name: "Harry Ge",
-      image: "./image/HarryGe.jpg",
-      role: "Undergraduate Student (ME)",
-      url: "https://www.linkedin.com/in/harry-ge-56b070308"
-    },
+    
     {
       name: "Feier Long",
       image: "./image/FeierLong.jpeg",
       role: "Undergraduate Student (ECE)",
       url: "https://www.linkedin.com/in/feier-long"
     },
-    {
-      name: "Qifeng Yang",
-      image: "./image/QifengYang.png",
-      role: "Undergraduate Student (ECE)",
-      url: "https://www.linkedin.com/in/qifeng-yang-743332313/"
-    },
+    
     {
       name: "Jiwei Zheng",
       image: "./image/JiweiZheng.jpg",
@@ -126,5 +105,30 @@ window.teamPageData = {
       url: "https://rayxsong.com/about",
       note: "Undergraduate researcher at WI Lab; later Ph.D. student at MIT Media Lab."
     }
+    // {
+    //   name: "Qifeng Yang",
+    //   image: "./image/QifengYang.png",
+    //   role: "Undergraduate Student (ECE)",
+    //   url: "https://www.linkedin.com/in/qifeng-yang-743332313/"
+    // },
+    // {
+    //   name: "Harry Ge",
+    //   image: "./image/HarryGe.jpg",
+    //   role: "Undergraduate Student (ME)",
+    //   url: "https://www.linkedin.com/in/harry-ge-56b070308"
+    // },
+    // {
+    //   name: "Mingzhuo Ma",
+    //   image: "./image/MingzhuoMa.jpg",
+    //   role: "Master Student (ECE)",
+    //   url: "https://www.linkedin.com/in/mingzhuoma"
+    // },
+    // {
+    //   name: "Yuxuan Miao",
+    //   image: "./image/YuxuanMiao.jpg",
+    //   role: "Master Student (ECE)",
+    //   url: "https://www.linkedin.com/in/yuxuan-wellington-miao-a07b4032b"
+    // }
+    
   ]
 };
