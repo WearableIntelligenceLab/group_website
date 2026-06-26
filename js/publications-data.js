@@ -143,7 +143,7 @@ window.publications = [
   },  
   {
     id: "wiresens-toolkit-an-open-source-platform-towards-accesible-wireless-tactile-sens",
-    title: "WiReSens Toolkit: An Open-Source Platform Towards Accesible Wireless Tactile Sensing",
+    title: "WiReSens Toolkit: An Open-Source Platform Towards Accesible Wireless Tactile Sensing (Best Demo Honorable Mention Award)",
     image: "./image/wiresens.png",
     alt: "science2024",
     year: 2026,
