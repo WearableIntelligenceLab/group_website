@@ -109,7 +109,7 @@ window.publications = [
     year: 2025,
     featured: true,
     topics: ["human-data-capturing-and-learning"],
-    contentHtml: "<div>\n                        Y. R. Song; J. Li; R. Fu; D. Murphy; K. Zhou; R. Shiv; Y. Li; H. Xiong; C. E. Owens; Y. Du; <strong>Y. Luo</strong>; X. Cheng; A. Torralba; W. Matusik; P. P. Liang.\n                      </div>\n                      <div>\n                        <i>arXiv</i>, 2025.\n                        <a href=\"https://opentouch-tactile.github.io\">[Project Page]</a>\n                        <a href=\"https://arxiv.org/abs/2512.16842\">[Paper]</a>\n                      </div>\n                    </div>",
+    contentHtml: "<div>\n                        Y. R. Song; J. Li; R. Fu; <strong>D. Murphy</strong>; K. Zhou; R. Shiv; Y. Li; H. Xiong; C. E. Owens; Y. Du; <strong>Y. Luo</strong>; X. Cheng; A. Torralba; W. Matusik; P. P. Liang.\n                      </div>\n                      <div>\n                        <i>arXiv</i>, 2025.\n                        <a href=\"https://opentouch-tactile.github.io\">[Project Page]</a>\n                        <a href=\"https://arxiv.org/abs/2512.16842\">[Paper]</a>\n                      </div>\n                    </div>",
   },
   {
   id: "a-closed-loop-cpr-training-glove-with-integrated-tactile-sensing-and-haptic-feedback",
@@ -119,7 +119,7 @@ window.publications = [
   year: 2026,
   featured: true,
   topics: ["human-computer-interactions"],
-  contentHtml: "<div>\n                        <strong>J. Moon</strong>; M. Ma; Q. Yang; Y. Choi; S. Hwang; S. Burden; K.-J. Kim; <strong>Y. Luo</strong>.\n                      </div>\n                      <div>\n                        <i>ICRA</i>, 2026.\n                        <a href=\"https://arxiv.org/abs/2603.05793\">[Paper]</a> </p>\n                      </div>\n                    </div>",
+  contentHtml: "<div>\n                        <strong>J. Moon</strong>; <strong>M. Ma</strong>; <strong>Q. Yang</strong>; <strong>Y. Choi</strong>; S. Hwang; S. Burden; K.-J. Kim; <strong>Y. Luo</strong>.\n                      </div>\n                      <div>\n                        <i>ICRA</i>, 2026.\n                        <a href=\"https://arxiv.org/abs/2603.05793\">[Paper]</a> </p>\n                      </div>\n                    </div>",
   },
   {
   id: "3d-printing-of-passively-actuated-self-folding-robots-with-integrated-functional-modules",
