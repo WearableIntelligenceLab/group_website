@@ -77,6 +77,12 @@ window.teamPageData = {
       image: "./image/JiweiZheng.jpg",
       role: "Undergraduate Student (ECE)",
       url: "https://www.linkedin.com/in/jiwei-zheng-706866256"
+    },
+    {
+      name: "Jiahua(Donald) Luo",
+      image: "./image/Donald.jpg",
+      role: "Master Student (ECE)",
+      url: "https://www.linkedin.com/in/jiahua-luo-04bb23323/"
     }
   ],
   photos: [
