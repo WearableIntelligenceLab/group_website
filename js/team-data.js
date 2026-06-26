@@ -86,6 +86,26 @@ window.teamPageData = {
   ],
   alumni: [
     {
+      name: "Qifeng Yang",
+      url: "https://www.linkedin.com/in/qifeng-yang-743332313/",
+      note: "Undergraduate Student (ECE), later Master student at CMU."
+    },
+    {
+      name: "Harry Ge",
+      url: "https://www.linkedin.com/in/harry-ge-56b070308",
+      note: "Undergraduate Student (ME), later Master student at Stanford."
+    },
+    {
+      name: "Mingzhuo Ma",
+      url: "https://www.linkedin.com/in/mingzhuoma",
+      note: "Master Student (ECE), later PhD student at UMich."
+    },
+    {
+      name: "Yuxuan Miao",
+      url: "https://www.linkedin.com/in/yuxuan-wellington-miao-a07b4032b",
+      note: "Master Student (ECE), later PhD student at Notre Dame."
+    },
+    {
       name: "Catherine Yu",
       url: "https://catherineyu.com/",
       note: "Visiting PhD student at WI Lab."
@@ -98,37 +118,12 @@ window.teamPageData = {
     {
       name: "Jazlin Taylor",
       url: "https://www.jazlintaylor.com/",
-      note: "Master student at WI Lab; later research assistant at Meta Reality Lab."
+      note: "Master student at WI Lab; later research assistant at Meta Reality Labs."
     },
     {
       name: "Ray Song",
       url: "https://rayxsong.com/about",
-      note: "Undergraduate researcher at WI Lab; later Ph.D. student at MIT Media Lab."
+      note: "Undergraduate researcher at WI Lab; later PhD student at MIT Media Lab."
     }
-    // {
-    //   name: "Qifeng Yang",
-    //   image: "./image/QifengYang.png",
-    //   role: "Undergraduate Student (ECE)",
-    //   url: "https://www.linkedin.com/in/qifeng-yang-743332313/"
-    // },
-    // {
-    //   name: "Harry Ge",
-    //   image: "./image/HarryGe.jpg",
-    //   role: "Undergraduate Student (ME)",
-    //   url: "https://www.linkedin.com/in/harry-ge-56b070308"
-    // },
-    // {
-    //   name: "Mingzhuo Ma",
-    //   image: "./image/MingzhuoMa.jpg",
-    //   role: "Master Student (ECE)",
-    //   url: "https://www.linkedin.com/in/mingzhuoma"
-    // },
-    // {
-    //   name: "Yuxuan Miao",
-    //   image: "./image/YuxuanMiao.jpg",
-    //   role: "Master Student (ECE)",
-    //   url: "https://www.linkedin.com/in/yuxuan-wellington-miao-a07b4032b"
-    // }
-    
   ]
 };
