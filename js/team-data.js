@@ -80,7 +80,7 @@ window.teamPageData = {
     },
     {
       name: "Jiahua(Donald) Luo",
-      image: "./image/Donald.jpg",
+      image: "./image/Donald.png",
       role: "Master Student (ECE)",
       url: "https://www.linkedin.com/in/jiahua-luo-04bb23323/"
     }
