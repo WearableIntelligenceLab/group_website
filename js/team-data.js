@@ -88,7 +88,10 @@ window.teamPageData = {
   photos: [
     { src: "./image/g1.jpg", alt: "WI Lab group photo 1" },
     { src: "./image/g2.jpg", alt: "WI Lab group photo 2" },
-    { src: "./image/g3.jpg", alt: "WI Lab group photo 3" }
+    { src: "./image/g3.jpg", alt: "WI Lab group photo 3" },
+    { src: "./image/g4.jpg", alt: "WI Lab group photo 4" },
+    { src: "./image/g5.jpg", alt: "WI Lab group photo 5" },
+    { src: "./image/g6.jpg", alt: "WI Lab group photo 6" }
   ],
   alumni: [
     {
