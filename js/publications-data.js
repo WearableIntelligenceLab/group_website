@@ -1,13 +1,12 @@
 // Add a new publication by appending one object to `window.publications`.
 // Then optionally include its `id` in `selectedOrder` and any topic section `items`.
 window.publicationConfig = {
-  selectedOrder: ["shared-representation-for-3d-pose-estimation-action-classification-and-progress-prediction-from-tactile-signals","zero-shot-deformation-reconstruction-for-soft-robots-using-a-flexible-sensor-array-and-cage-based-3d-gaussian-modeling","opentouch-bringing-full-hand-touch-to-real-world-interaction","a-closed-loop-cpr-training-glove-with-integrated-tactile-sensing-and-haptic-feedback","3d-printing-of-passively-actuated-self-folding-robots-with-integrated-functional-modules","magball-magnetic-rollerball-for-multi-scale-contact-interactions-on-diverse-surfaces","wiresens-toolkit-an-open-source-platform-towards-accesible-wireless-tactile-sens", "magtex-machine-knitted-magnetoactive-textiles-for-bidirectional-human-machine-in", "biogem-a-fully-biodegradable-gelatin-based-mckibben-actuator-with-embedded-sensi", "bandei-a-flexible-electrical-impedance-sensing-bandage-for-deep-muscles-and-tend", "fibercircuits-an-open-platform-to-embed-integrated-circuits-inside-fibers", "locotouch-learning-dexterous-quadrupedal-transport-with-tactile-sensing", "3d-vitac-learning-fine-grained-manipulation-with-visuo-tactile-sensing", "intelligent-textiles-are-looking-bright", "adaptive-tactile-interaction-transfer-via-digitally-embroidered-smart-gloves", "tactile-embeddings-for-multi-task-learning", "liquids-identification-and-manipulation-via-digitally-fabricated-impedance-senso", "magknitic-machine-knitted-passive-and-interactive-haptic-textiles-with-integrate", "actionsense-a-multimodal-dataset-and-recording-framework-for-human-activities-us", "digital-fabrication-of-pneumatic-actuators-with-integrated-sensing-by-machine-kn", "an-integrated-design-pipeline-for-tactile-sensing-robotic-manipulators", "dynamic-modeling-of-hand-object-interactions-via-tactile-sensing", "intelligent-carpet-inferring-3d-human-pose-from-tactile-signals", "learning-human-environment-interactions-using-conformal-tactile-textiles", "knitui-fabricating-interactive-and-sensing-textiles-with-machine-knitting"],
+  selectedOrder: ["zero-shot-deformation-reconstruction-for-soft-robots-using-a-flexible-sensor-array-and-cage-based-3d-gaussian-modeling","opentouch-bringing-full-hand-touch-to-real-world-interaction","a-closed-loop-cpr-training-glove-with-integrated-tactile-sensing-and-haptic-feedback","3d-printing-of-passively-actuated-self-folding-robots-with-integrated-functional-modules","magball-magnetic-rollerball-for-multi-scale-contact-interactions-on-diverse-surfaces","wiresens-toolkit-an-open-source-platform-towards-accesible-wireless-tactile-sens", "magtex-machine-knitted-magnetoactive-textiles-for-bidirectional-human-machine-in", "biogem-a-fully-biodegradable-gelatin-based-mckibben-actuator-with-embedded-sensi", "bandei-a-flexible-electrical-impedance-sensing-bandage-for-deep-muscles-and-tend", "fibercircuits-an-open-platform-to-embed-integrated-circuits-inside-fibers", "locotouch-learning-dexterous-quadrupedal-transport-with-tactile-sensing", "3d-vitac-learning-fine-grained-manipulation-with-visuo-tactile-sensing", "intelligent-textiles-are-looking-bright", "adaptive-tactile-interaction-transfer-via-digitally-embroidered-smart-gloves", "tactile-embeddings-for-multi-task-learning", "liquids-identification-and-manipulation-via-digitally-fabricated-impedance-senso", "magknitic-machine-knitted-passive-and-interactive-haptic-textiles-with-integrate", "actionsense-a-multimodal-dataset-and-recording-framework-for-human-activities-us", "digital-fabrication-of-pneumatic-actuators-with-integrated-sensing-by-machine-kn", "an-integrated-design-pipeline-for-tactile-sensing-robotic-manipulators", "dynamic-modeling-of-hand-object-interactions-via-tactile-sensing", "intelligent-carpet-inferring-3d-human-pose-from-tactile-signals", "learning-human-environment-interactions-using-conformal-tactile-textiles", "knitui-fabricating-interactive-and-sensing-textiles-with-machine-knitting"],
   topicSections: [
   {
     "id": "human-data-capturing-and-learning",
     "title": "Human Data Capturing and Learning",
     "items": [
-      "shared-representation-for-3d-pose-estimation-action-classification-and-progress-prediction-from-tactile-signals",
       "opentouch-bringing-full-hand-touch-to-real-world-interaction",
       "magtex-machine-knitted-magnetoactive-textiles-for-bidirectional-human-machine-in",
       "bandei-a-flexible-electrical-impedance-sensing-bandage-for-deep-muscles-and-tend",
@@ -81,21 +80,12 @@ window.publicationConfig = {
 };
 
 window.publications = [
-  {
-    id: "shared-representation-for-3d-pose-estimation-action-classification-and-progress-prediction-from-tactile-signals",
-    title: "Shared Representation for 3D Pose Estimation, Action Classification, and Progress Prediction from Tactile Signals",
-    image: "./image/scotti.png",
-    alt: "arXiv2026",
-    year: 2026,
-    featured: true,
-    topics: ["human-data-capturing-and-learning"],
-    contentHtml: "<div>\n                        I. Han; S. Lee; S. Park; E. Akan; <strong>Y. Luo</strong>; J. DelPreto; K.-J. Kim.\n                      </div>\n                      <div>\n                        <i>arXiv</i>, 2026.\n                        <a href=\"https://arxiv.org/abs/2603.25906\">[Paper]</a>\n                      </div>\n                    </div>",
-  },
+
   {
     id: "zero-shot-deformation-reconstruction-for-soft-robots-using-a-flexible-sensor-array-and-cage-based-3d-gaussian-modeling",
     title: "Zero Shot Deformation Reconstruction for Soft Robots Using a Flexible Sensor Array and Cage Based 3D Gaussian Modeling",
     image: "./image/zero-shot-soft-robot.png",
-    alt: "arXiv2026",
+    alt: "IROS2026",
     year: 2026,
     featured: true,
     topics: ["robotics"],
