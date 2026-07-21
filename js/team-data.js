@@ -55,7 +55,7 @@ window.teamPageData = {
       name: "Hongyu Mao",
       image: "./image/HongyuMao.png",
       role: "PhD Student",
-      url: "https://www.hongymao.com/"
+      url: "https://www.hongyu-mao.com/"
     },
     
     {
