@@ -126,7 +126,7 @@ li {
 }
 
 .section-card,
-#pubs > .row {
+#pubs .publication-row {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius-xl);
@@ -270,7 +270,7 @@ li {
   margin-top: 22px;
 }
 
-#pubs > .row {
+#pubs .publication-row {
   margin-top: 0 !important;
   margin-bottom: 18px;
   padding: 22px 18px;
@@ -521,8 +521,8 @@ li {
     width: 100%;
   }
 
-  #pubs > .row {
-    padding: 18px 14px;
+  #pubs .publication-row {
+  padding: 18px 14px;
   }
 
   .lab-grid,
